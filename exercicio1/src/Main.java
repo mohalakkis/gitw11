@@ -3,7 +3,7 @@ public class Main {
         // Criando objetos usando diferentes construtores
         Person pessoa1 = new Person(); // Usando construtor padrão
         Person pessoa2 = new Person(); // Usando construtor com nome, idade e ID
-        Person pessoa3 = new Person(); // Usando todos os atributos
+        Person pessoa3 = new Person();
 
         // Usando o terceiro objeto para cálculos
         int imcResultado = pessoa3.calcularIMC();
